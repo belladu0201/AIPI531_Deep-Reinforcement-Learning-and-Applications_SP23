@@ -6,3 +6,4 @@ Deep Reinforcement Learning Applications will cover advanced sequential decision
 
 ## Resources
 - https://gibberblot.github.io/rl-notes/single-agent/n-step.html
+- https://d3rlpy.readthedocs.io/en/v1.1.1/tutorials/index.html
